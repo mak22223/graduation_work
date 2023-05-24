@@ -1,0 +1,9 @@
+[submodule "USBCAN_application"]
+	path = USBCAN_application
+	url = git@github.com:mak22223/USBCAN_application.git
+[submodule "USBCAN_driver"]
+	path = USBCAN_driver
+	url = git@github.com:mak22223/USBCAN_driver.git
+[submodule "USBCAN_adapter_fw"]
+	path = USBCAN_adapter_fw
+	url = git@github.com:mak22223/USBCAN_adapter_fw.git
